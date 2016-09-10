@@ -1,4 +1,7 @@
 #CCPD concept
 Just a concept
 
-![myimage-alt-tag](https://giphy.com/gifs/pPuvWiBDOfuHm)
+
+GIF:
+
+https://giphy.com/gifs/pPuvWiBDOfuHm
